@@ -8,27 +8,34 @@ Front-End developer with a passion for good user experience and accessibility
 
 ### Contact me
 
-[EMAIL](marie.serykh@gmail.com)  
-[GITHUB](https://github.com/mserykh)  
-[LINKEDIN](https://www.linkedin.com/in/mariaserykh/)
+[EMAIL](mailto:ergashevshohqadam@gmail.com)  
+[GITHUB](https://github.com/shohqadamm)  
+[LINKEDIN](https://www.linkedin.com/in/shohqadamergashev/)
 
 ### Position
 
 **Front-End developer**
 
 ### Skills
-
-*   Git
-*   Figma, Photoshop
-*   HTML, CSS, Bootstrap, Responsive Design
-*   SASS
 *   JavaScript, jQuery
+*   C++, Python, Django, PHP, Laravel
+*   Git, GitHub
+*   Figma, Photoshop
+*   HTML, CSS, Bootstrap, Responsive Design, TailwindCSS
+*   SASS
 
 ### Projects
 
-*   [Generate Random User - HTML, CSS, JSS](https://shohqadam.github.io/generateRandomUser)
+
+*   [cbcc.com - HTML, CSS, Javascript](https://cbcc.com)
     
-*   [M Dssign landing page - HTML, CSS](https://shohqadam.github.io/mDesignLP)
+*   [Movie App - HTML, CSS, VueJS](https://shohqadam-movie-app-vue.netlify.app)
+    
+*   [Clavier.uz - HTML, CSS, VueJS](https://clavier-uz-vue.netlify.app/)
+    
+*   [Clone Projects - HTML, CSS, Javascript](https://shohqadamm.github.io/clone-projects/)
+    
+*   [M Dssign landing page - HTML, CSS, Javascript](https://shohqadam.github.io/mDesignLP)
     
 *   [My First Portfolio - HTML, CSS, Javascript](https://shohqadam-me.netlify.app/)
     
