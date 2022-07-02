@@ -29,7 +29,7 @@ Front-End developer with a passion for good user experience and accessibility
 ### Projects
 
 
-*   [cbcc.com - HTML, CSS, Javascript](https://cbcc.com)
+*   [cbcc.com - HTML, CSS, Javascript](https://www.champagnebillionairecryptoclub.com/)
     
 *   [Movie App - HTML, CSS, VueJS](https://shohqadam-movie-app-vue.netlify.app)
     
