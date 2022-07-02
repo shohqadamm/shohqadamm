@@ -11,7 +11,6 @@ Front-End developer with a passion for good user experience and accessibility
 [EMAIL](mailto:ergashevshohqadam@gmail.com)  
 [GITHUB](https://github.com/shohqadamm)  
 [LINKEDIN](https://www.linkedin.com/in/shohqadamergashev/)
-
 [TELEGRAM](https://t.me/i_m_shohqadam)
 
 
