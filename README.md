@@ -48,7 +48,7 @@ Front-End developer with a passion for good user experience and accessibility
 ### Languages
 
 *   English (Fluent)
-*   Russian (Befinner)
+*   Russian (Beginner)
 *   Uzbek (Native)
 <!---
 shohqadamm/shohqadamm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
