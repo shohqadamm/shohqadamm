@@ -43,6 +43,7 @@ Front-End developer with a passion for good user experience and accessibility
     
 *   [Custom Music Player - HTML, CSS, JavaScript](https://shohqadam.github.io/mysicPlayer)
     
+*   [Quiz App - HTML, CSS, JavaScript](https://shohqadamm.github.io/quiz-app-vanilla-js)
 
 ### Languages
 
