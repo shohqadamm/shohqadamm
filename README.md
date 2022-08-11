@@ -20,7 +20,7 @@ Front-End developer with a passion for good user experience and accessibility
 
 ### Skills
 *   JavaScript, jQuery
-*   C++, Python, Django, PHP, Laravel
+*   Python, Django, PHP, Laravel
 *   Git, GitHub
 *   Figma, Photoshop
 *   HTML, CSS, Bootstrap, Responsive Design, TailwindCSS
